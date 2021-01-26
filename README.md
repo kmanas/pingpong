@@ -1,1 +1,1 @@
-# pingpong
+# Creating a simple pingpong game
